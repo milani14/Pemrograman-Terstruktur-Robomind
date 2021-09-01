@@ -1,2 +1,2 @@
 # Pemrograman-Terstruktur2
-Robomind
+Praktikum Pemrograman Terstruktur-Robomind
