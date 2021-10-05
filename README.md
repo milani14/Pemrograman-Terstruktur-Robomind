@@ -1,3 +1,3 @@
-# Pemrograman-Terstruktur2
+# Pemrograman-Terstruktur-Robomind
 Praktikum Pemrograman Terstruktur-Robomind
 Milani Tanya Qurin
