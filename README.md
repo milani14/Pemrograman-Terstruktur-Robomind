@@ -1,3 +1,3 @@
-# Pemrograman-Terstruktur-Robomind
-Praktikum Pemrograman Terstruktur-Robomind
-Milani Tanya Qurin
+# Pemrograman-Terstruktur
+Praktikum Pemrograman Terstruktur
+Milani Tanya Qurin_K3521043
